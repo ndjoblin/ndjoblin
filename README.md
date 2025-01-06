@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on optimal taxation
 - 📫 How to reach me: you can reach me through my email nnguebikob@yahoo.fr
 - 😄 Pronouns: Nicolas
-- ⚡ Fun fact: I have almost touched everything: maths, stats, econometrics, machine learning...
+- ⚡ Fun fact: I have almost touched everything: maths, stats, econometrics, machine learning, time series...
 
 <!---
 ndjoblin/ndjoblin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
